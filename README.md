@@ -10,7 +10,7 @@
   <a href="https://github-readme-stats.vercel.app/api?username=samalvesd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samalvesd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=samalvesd&layout=compact&langs_count=7&theme=radical" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samalvesd&layout=compact&langs_count=7&theme=radical"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samalvesd&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
