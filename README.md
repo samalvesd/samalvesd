@@ -1,10 +1,10 @@
 ### Sobre
 
-- ⌛ Atualmente Estagiário em Banco de Dados na **COPRA Alimentos**;
-- 📕 Estudando **Elixir**, Phoenix, NodeJS e **JavaScript**;
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo **Centro Universitário - FAM** ;
-- 📚 Conhecimentos nas linguagens: Elixir, JavaScript e Python;
-- 📚 Conhecimentos nos frameworks: Phoenix, React e Django;
+- ⌛ Atualmente Assistente de TI na **Carajás Home Center**;
+- 📕 Estudando **Go** e Python;
+- 🎓 Graduado, Analista de Sistemas pelo **Centro Universitário - FAM** ;
+- 🎓 Cursando Pós-Graduação em Engenharia de Software pela **Faculdade Metropolitana**;
+- 📚 Conhecimentos nas linguagens: Python, JavaScript e Go;
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=samalvesd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" target="_blank">
