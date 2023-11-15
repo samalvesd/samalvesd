@@ -1,9 +1,9 @@
 ### Sobre
 
-- ⌛ Atualmente Assistente de TI na **Carajás Home Center**;
+- ⌛ Atualmente Assistente de Infraestrutura na **Carajás Home Center**;
 - 📕 Estudando **Go** e Python;
 - 🎓 Graduado, Analista de Sistemas pelo **Centro Universitário - FAM** ;
-- 🎓 Cursando Pós-Graduação em Engenharia de Software pela **Faculdade Metropolitana**;
+- 🎓 MBA em Engenharia de Software pela **Faculdade Metropolitana**;
 - 📚 Conhecimentos nas linguagens: Python, JavaScript e Go;
 
 <div>
