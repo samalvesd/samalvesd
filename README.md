@@ -4,7 +4,7 @@
 - 📕 Trabalhando com **AdvPL** e **Python**;
 - 🎓 Analista de Sistemas pelo **Centro Universitário - FAM** ;
 - 🎓 MBA em Engenharia de Software pela **Faculdade Metropolitana**;
-- 📚 Conhecimentos nas linguagens: Python e AdvPL;
+- 📚 Conhecimentos nas linguagens: Java, Python e AdvPL;
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=samalvesd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" target="_blank">
