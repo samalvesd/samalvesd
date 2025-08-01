@@ -14,7 +14,7 @@
 </div>
 <div style="display: inline_block"><br>
 
-  <img src="/show/373420/advpl.svg" alt="Advpl SVG Vector Icon" width="40" height="30" loading="eager" decoding="sync" fetchpriority="high" importance="high">
+  <img align="center" src="/show/373420/advpl.svg" alt="Advpl SVG Vector Icon" width="40" height="30" loading="eager" decoding="sync" fetchpriority="high" importance="high">
   <img align="center" alt="Samuel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
   <img align="center" alt="Samuel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Samuel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
