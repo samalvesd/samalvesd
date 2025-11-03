@@ -1,10 +1,10 @@
 ### Sobre
 
-- ⌛ **Analista de Sistemas** na **Carajás Home Center**;
-- 📕 Trabalhando com **AdvPL** e **Python**;
+- ⌛ **Analista de Sistemas** na **Asa Branca Distribuidora**;
+- 📕 Trabalhando com **AdvPL**, **TLPP** e **Python**;
 - 🎓 Analista de Sistemas pelo **Centro Universitário - FAM** ;
 - 🎓 MBA em Engenharia de Software pela **Faculdade Metropolitana**;
-- 📚 Conhecimentos nas linguagens: Java, Python e AdvPL;
+- 📚 Conhecimentos nas linguagens: AdvPL, TLPP, Java e Python;
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=samalvesd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" target="_blank">
@@ -13,13 +13,14 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samalvesd&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Samuel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
-  <img align="center" alt="Samuel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" src="https://www.svgrepo.com/show/373420/advpl.svg" alt="Advpl SVG Vector Icon" width="40" height="30" loading="eager" decoding="sync" fetchpriority="high" importance="high">
-  <img align="center" alt="Samuel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Samuel-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Advpl SVG Vector Icon" width="40" height="30" loading="eager" decoding="sync" fetchpriority="high" importance="high" src="https://www.svgrepo.com/show/373420/advpl.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
+  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
 <br>
 
