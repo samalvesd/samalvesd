@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120024,50:3a0ca3,100:6a0dad&height=200&section=header&text=Samuel%20Alves&fontSize=60&fontColor=ffffff&fontFamily=Montserrat&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Sistemas%20%7C%20AdvPL%20e%20TLPP%20Developer&descAlignY=58&descSize=18" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120024,50:3a0ca3,100:6a0dad&height=200&section=header&text=Samuel%20Alves&fontSize=60&fontColor=ffffff&fontFamily=Montserrat&animation=fadeIn&fontAlignY=38&desc=Systems%20Analyst%20%7C%20AdvPL%20and%20TLPP%20Developer&descAlignY=58&descSize=18" alt="banner"/>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Software+Developer" alt="Typing SVG" />
 </a>
 
-<p align="center"><b>Analista de Sistemas</b> na <b>Asa Branca Distribuidora</b>.</p>
+<p align="center"><b>Systems Analyst</b> at <b>Asa Branca Distribuidora</b>.</p>
 
 </div>
 
