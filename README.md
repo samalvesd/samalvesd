@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:fe428e,100:a9fef7&height=200&section=header&text=Samuel%20Alves&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Sistemas%20%7C%20AdvPL%20%26%20TLPP%20Developer&descAlignY=58&descSize=18" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:fe428e,100:a9fef7&height=200&section=header&text=Samuel%20Alves&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Sistemas%20%7C%20AdvPL%20e%20TLPP%20Developer&descAlignY=58&descSize=18" alt="banner"/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FE428E&center=true&vCenter=true&width=600&lines=Analista+de+Sistemas+%F0%9F%92%BB;AdvPL+%26+TLPP+Developer+%E2%9A%99%EF%B8%8F;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=500&lines=Software+Developer" alt="Typing SVG" />
 </a>
 
 </div>
