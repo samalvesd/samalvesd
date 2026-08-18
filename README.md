@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:f7971e,100:ffd200&height=200&section=header&text=Samuel%20Alves&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Sistemas%20%7C%20AdvPL%20e%20TLPP%20Developer&descAlignY=58&descSize=18" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:c1440e,100:ff6a00&height=200&section=header&text=Samuel%20Alves&fontSize=60&fontColor=ffffff&fontFamily=Poppins&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Sistemas%20%7C%20AdvPL%20e%20TLPP%20Developer&descAlignY=58&descSize=18" alt="banner"/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=500&lines=Software+Developer" alt="Typing SVG" />
 </a>
 
-<p align="center">💻 <b>Analista de Sistemas</b> na <b>Asa Branca Distribuidora</b> — atuando com <b>AdvPL</b>, <b>TLPP</b> e <b>Python</b>.</p>
+<p align="center"><b>Analista de Sistemas</b> na <b>Asa Branca Distribuidora</b> — atuando com <b>AdvPL</b>, <b>TLPP</b> e <b>Python</b>.</p>
 
 </div>
 
@@ -14,9 +14,9 @@
 
 ### Tech Stack
 
-<img align="center" alt="Advpl SVG Vector Icon" width="48" height="48" loading="eager" src="https://www.svgrepo.com/show/373420/advpl.svg">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TLPP-141321?style=for-the-badge&logo=totvs&logoColor=ff8c00" height="28"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python,git&theme=dark" height="48"/>
+<img align="middle" alt="Advpl SVG Vector Icon" width="48" height="48" loading="eager" src="https://www.svgrepo.com/show/373420/advpl.svg">&nbsp;&nbsp;
+<img align="middle" src="https://img.shields.io/badge/TLPP-141321?style=for-the-badge&logo=totvs&logoColor=ffd200" height="28"/>&nbsp;&nbsp;
+<img align="middle" src="https://skillicons.dev/icons?i=python,git&theme=dark" height="48"/>
 
 </div>
 
@@ -30,4 +30,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:f7971e,100:ffd200&height=100&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:c1440e,100:ff6a00&height=100&section=footer" alt="footer"/>
