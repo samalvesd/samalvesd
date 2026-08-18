@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=500&lines=Software+Developer" alt="Typing SVG" />
 </a>
 
-<p align="center"><b>Analista de Sistemas</b> na <b>Asa Branca Distribuidora</b> — atuando com <b>AdvPL</b>, <b>TLPP</b> e <b>Python</b>.</p>
+<p align="center"><b>Analista de Sistemas</b> na <b>Asa Branca Distribuidora</b>.</p>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <img align="middle" alt="Advpl SVG Vector Icon" width="48" height="48" loading="eager" src="https://www.svgrepo.com/show/373420/advpl.svg">&nbsp;&nbsp;
 <img align="middle" src="https://img.shields.io/badge/TLPP-141321?style=for-the-badge&logo=totvs&logoColor=ffd200" height="28"/>&nbsp;&nbsp;
-<img align="middle" src="https://skillicons.dev/icons?i=python,git&theme=dark" height="48"/>
+<img align="middle" src="https://skillicons.dev/icons?i=angular,python,git&theme=dark" height="48"/>
 
 </div>
 
