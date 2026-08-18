@@ -1,12 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120024,50:3a0ca3,100:6a0dad&height=180&section=header" alt="banner"/>
-
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=48&duration=2500&repeat=false&color=9D4EDD&center=true&vCenter=true&width=460&height=70&lines=Samuel+Alves" alt="Samuel Alves" />
-</a>
-
-<p align="center"><b>Software Developer</b></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120024,50:3a0ca3,100:6a0dad&height=200&section=header&text=Samuel%20Alves&fontSize=60&fontColor=ffffff&fontFamily=Segoe%20UI&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=18" alt="banner"/>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=AdvPL+%26+TLPP+Developer" alt="Typing SVG" />
